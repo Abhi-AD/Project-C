@@ -17,12 +17,12 @@ This is a simple calculator program written in C.
 2. Compile the program:
 
    ```bash
-gcc calculator.c -o calculator
+   gcc calculator.c -o calculator
 
 3.Run the program:
 
    ```bash
-./calculator
+   ./calculator
 
 4.# Usage:
 Follow the on-screen prompts to enter the numbers and operator for performing calculations. You can also input the second number as a file path to read the number from a file.
