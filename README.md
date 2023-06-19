@@ -9,22 +9,22 @@ This is a simple calculator program written in C.
 
 ## Getting Started
 
-1. Clone the repository:
+   1. Clone the repository:
 
    ```bash
    git clone <repository_url>
    
-2. Compile the program:
+   2. Compile the program:
 
    ```bash
    gcc calculator.c -o calculator
 
-3.Run the program:
+   3.Run the program:
 
    ```bash
    ./calculator
-
-4.# Usage:
+   
+4. Usage:
 Follow the on-screen prompts to enter the numbers and operator for performing calculations. You can also input the second number as a file path to read the number from a file.
 
 5. # License
