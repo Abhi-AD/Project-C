@@ -13,23 +13,23 @@ This is a simple calculator program written in C.
 
    ```bash
    git clone <repository_url>
-Compile the program:
+   
+2. Compile the program:
 
-bash
-Copy code
+   ```bash
 gcc calculator.c -o calculator
-Run the program:
 
-bash
-Copy code
+3.Run the program:
+
+   ```bash
 ./calculator
-Usage
+
+4.# Usage:
 Follow the on-screen prompts to enter the numbers and operator for performing calculations. You can also input the second number as a file path to read the number from a file.
 
-License
-This project is licensed under the MIT License.
+5. # License
+- This project is licensed under the MIT License.
 
-sql
-Copy code
-
+6. sql:
+```bash
 Feel free to customize the README.md file with additional information, usage examples, or any other relevant details about your project.
